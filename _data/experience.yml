@@ -1,19 +1,45 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Paradox - Olivia
+  position: Software Engineer
+  duration: Jul 2021 &mdash; Present
+  summary: |
+    <p><b>Project Overview:</b> Developed a sophisticated AI-driven HR assistant to streamline the hiring process, including candidate screening, scheduling, and Q&A. This innovative solution achieved Unicorn Startup status in 2021.</p>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+    <p><b>Key responsibilities:</b></p>
+    <ul class="resume-item-list">
+      <li>Implemented Neural Search functionality for Q&A features, utilizing ElasticSearch and advanced Deep Learning models.</li>
+      <li>Enhanced and maintained NER and NLU servers by employing Asynchronous Programming and Multi-threading techniques.</li>
+      <li>Customized open-source platforms, including Rasa, Facebook Duckling, and Label Studio, to meet project requirements.</li>
+      <li>Incorporated caching systems to optimize server performance.</li>
+      <li>Designed and fine-tuned training and deployment pipelines for machine learning models.</li>
+      <li>Identified and resolved slow SQL queries and performance bottlenecks in the codebase.</li>
+    </ul>
 
+- company: Green Global - GreenLabs
+  position: AI Engineer + Software Engineer
+  duration: Jul 2020 &mdash; May 2021
+  summary: |
+    <p><b>Project Overview:</b> Developed innovative AI solutions to automate various tasks within the local city, including a Facial Recognition system for monitoring individuals entering and exiting specific areas under surveillance by cameras.</p>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+    <p><b>Key responsibilities:</b></p>
+    <ul class="resume-item-list">
+      <li>Researched and integrated the Neural Search Engine (Milvus) into the system for enhanced performance.</li>
+      <li>Constructed and deployed Deep Learning models using Docker.</li>
+      <li>Developed a web server utilizing PHP and the Laravel framework.</li>
+      <li>Created an API server for AI-powered services using Python.</li>
+    </ul>
+
+- company: Neolab - Terra UTM
+  position: Software Engineer
+  duration:  Mar 2018 &mdash; Feb 2020
+  summary: |
+    <p><b>Project Overview:</b> Implemented an Unmanned Aerial Vehicle (UAV) traffic management system designed to establish flight plans, initiate flights, and monitor aircraft in real-time.</p>
+
+    <p><b>Key responsibilities:</b></p>
+    <ul class="resume-item-list">
+      <li>Assumed full responsibility for the Terra UTM API.</li>
+      <li>Developed algorithms to detect overlapping lines in 3D space.</li>
+      <li>Introduced new features and deployed servers to AWS for enhanced functionality.</li>
+      <li>Constructed Node.js and PHP Microservices for system integration.</li>
+      <li>Seamlessly integrated Microservices into the Drone traffic management system.</li>
+    </ul>
